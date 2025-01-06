@@ -1,0 +1,32 @@
+\documentclass[12pt,a4paper,oneside,english]{report}
+\begin{document}
+% Given a graph \(G = (V,E), \ V = \{v_1,v_2,...,v_n\} \text{ and } E = \{e_1,e_2,...,e_n\} \) are the vertex and hyper-edges set.
+
+% We can define a vertex-edge matrix \(F\) such that
+% \begin{equation*} \label{eq:13}
+  \[ \delta(e) = \sum_{v \in e} f(v,e);\quad  f(v,e) = \left\{
+\begin{array}{ll}
+      1,\ v \in e\\
+      0,\  v \notin e
+\end{array} 
+\right. \]
+% \end{equation*}
+% The degree of hyperedge \( \delta(e) \) is defined as the number of vertices a hyperedge contains and $d(v)$ represents degree of a vertex,
+\begin{eqnarray*}  d(v) = \sum_{v \in e, e \in E} w(e) = \sum_{e \in E} w(e)f(v,e) \quad w(e) = \frac{1}{\delta(e)(\delta(e)-1)} \sum_{\{v_i,v_j\} \in e} exp \left( -\frac{||v_i - v_j||^2}{\mu}\right)
+\quad\end{eqnarray*}
+% The following formula defines the hyperedge weight $w(e)$:
+
+
+% Similar to a simple graph, the Hypergraph's Laplacian matrix can be defined as \cite{Zhou}:
+% \begin{equation*} \label{eq:14}
+  \[  H_s = D_v - FD_wD_e^{-1}F^T\]
+% \end{equation*}
+% where \(D_v, D_e, D_w\) are the diagonal matrices composed of \(d(v),\delta(e) \\ \text{ and } w(e) \) respectively. 
+% \\ 
+% According to Zhou's \cite{Zhou}, the Laplacian regularized Hypergraph matrix can also be defined as 
+% \begin{equation}\label{eq:15}
+%     H_s = I - D_v^{-\frac{1}{2}}FD_wD_e^{-1}F^TD_v^{-\frac{1}{2}}
+% \end{equation}
+
+% Matrix $H_s$ is a symmetric and positive definite matrix.
+\end{document}
