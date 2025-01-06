@@ -51,8 +51,8 @@ To compile the LaTeX source, ensure you have:
 3. Alternatively, use [Overleaf](https://www.overleaf.com/) for online editing and compilation.
 
 ## Publications
-- R. Rastogi and Dev Nirwal, “Hypergraph Regularized Semi-Supervised Least Squares Twin Support Vector Machine for Multilabel Classification,” *Lecture Notes in Computer Science*, Dec. 2024. (ICPR)
-- R. Rastogi and Dev Nirwal, “Improved Hypergraph Laplacian Based Semi-Supervised Support Vector Machine,” *Lecture Notes in Computer Science*, Dec. 2024. (ICPR)
+- R. Rastogi and **D. Nirwal** , “Hypergraph Regularized Semi-Supervised Least Squares Twin Support Vector Machine for Multilabel Classification,” *Lecture Notes in Computer Science*, Dec. 2024. (ICPR)
+- R. Rastogi and **D. Nirwal**, “Improved Hypergraph Laplacian Based Semi-Supervised Support Vector Machine,” *Lecture Notes in Computer Science*, Dec. 2024. (ICPR)
 
 ## Results
 ### Multi-label Dataset Summary
