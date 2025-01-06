@@ -2,11 +2,14 @@
 
 This repository contains the LaTeX source and supporting files for my Master's thesis, **"Hypergraph-driven Semi-Supervised Learning Approaches for Variants of SVMs"**, completed at the South Asian University under the supervision of **Dr. Reshma Rastogi**.
 
+## Thesis PDF
+You can download the compiled thesis PDF [here](output/thesis.pdf).
+
 ## Project Overview
 
 The thesis explores two novel semi-supervised frameworks:
-1. **Improved Hypergraph Laplacian Support Vector Machine (IHLSVM):** Combines Laplacian and hypergraph representations to enhance pairwise and higher-order interactions for robust pattern classification.
-2. **Hypergraph Regularized Semi-Supervised Least Squares Twin Support Vector Machine (HMLLSTSVM):** A multilabel learning framework leveraging hypergraph Laplacians and least-squares loss, particularly effective for sparse label scenarios.
+1. **[Improved Hypergraph Laplacian Support Vector Machine (IHLSVM)]((https://doi.org/10.1007/978-3-031-78192-6_16)):** Combines Laplacian and hypergraph representations to enhance pairwise and higher-order interactions for robust pattern classification.
+2. **[Hypergraph Regularized Semi-Supervised Least Squares Twin Support Vector Machine (HMLLSTSVM)](https://doi.org/10.1007/978-3-031-78383-8_15):** A multilabel learning framework leveraging hypergraph Laplacians and least-squares loss, particularly effective for sparse label scenarios.
 
 ### Applications
 The proposed methods excel in real-world tasks such as:
