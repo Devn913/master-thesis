@@ -5,6 +5,8 @@ This repository contains the LaTeX source and supporting files for my Master's t
 ## Thesis PDF
 You can download the compiled thesis PDF [here](output/thesis.pdf).
 
+DOI: [Research Gate](http://dx.doi.org/10.13140/RG.2.2.11547.58401)
+
 ## Project Overview
 
 The thesis explores two novel semi-supervised frameworks:
