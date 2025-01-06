@@ -10,7 +10,7 @@ DOI: [Research Gate](http://dx.doi.org/10.13140/RG.2.2.11547.58401)
 ## Project Overview
 
 The thesis explores two novel semi-supervised frameworks:
-1. **[Improved Hypergraph Laplacian Support Vector Machine (IHLSVM)]((https://doi.org/10.1007/978-3-031-78192-6_16)):** Combines Laplacian and hypergraph representations to enhance pairwise and higher-order interactions for robust pattern classification.
+1. **[Improved Hypergraph Laplacian Support Vector Machine (IHLSVM)](https://doi.org/10.1007/978-3-031-78192-6_16):** Combines Laplacian and hypergraph representations to enhance pairwise and higher-order interactions for robust pattern classification.
 2. **[Hypergraph Regularized Semi-Supervised Least Squares Twin Support Vector Machine (HMLLSTSVM)](https://doi.org/10.1007/978-3-031-78383-8_15):** A multilabel learning framework leveraging hypergraph Laplacians and least-squares loss, particularly effective for sparse label scenarios.
 
 ### Applications
@@ -76,8 +76,9 @@ This project is licensed under the **MIT**. See the `LICENSE` file for details.
 
 ## Acknowledgments
 Special thanks to:
-- **Dr. Reshma Rastogi**, my supervisor, for her invaluable guidance.
+- **[Dr. Reshma Rastogi](https://sau.int/faculty/reshma-rastogi/)**, my supervisor, for her invaluable guidance.
 - My colleagues and labmates for their constant support.
+- Laboratory: Machine Learning and Statisical Inference ([MLSI](https://sites.google.com/view/mlsilab/home?authuser=0))
 
 ## Author
 **Dev Nirwal**  
