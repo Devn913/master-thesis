@@ -7,6 +7,8 @@ You can download the compiled thesis PDF [here](output/thesis.pdf).
 
 DOI: [Research Gate](http://dx.doi.org/10.13140/RG.2.2.11547.58401)
 
+Blog post discussing project and my contribution: [Medium](https://medium.com/@devn007/my-masters-research-project-on-svm-d5bec8f12323)
+
 ## Project Overview
 
 The thesis explores two novel semi-supervised frameworks:
